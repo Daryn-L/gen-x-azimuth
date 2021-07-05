@@ -33,7 +33,7 @@ sections:
             url: /features
             style: secondary
             has_icon: true
-            icon: arrow-right
+            icon: envelope
             icon_position: right
       - title: Awesome Feature of Your Services
         image: images/feature2.png
